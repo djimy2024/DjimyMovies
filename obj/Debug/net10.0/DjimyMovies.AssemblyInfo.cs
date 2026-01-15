@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DjimyMovies")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a6317981384f99eac186f830f73c1cc3d38e9e9b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+47dd78fcd2ff9a1ff52efb1d7af93f7e8c8d5e66")]
 [assembly: System.Reflection.AssemblyProductAttribute("DjimyMovies")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DjimyMovies")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
